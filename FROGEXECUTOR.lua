@@ -33,7 +33,7 @@ local function onOkButtonClick()
     
     tween:Play()
     
-    wait(3)
+    wait(0.5)
    
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/xxsfytd/Secret/main/shhhhsecret.lua')))()
     
