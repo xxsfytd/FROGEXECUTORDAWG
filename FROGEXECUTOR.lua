@@ -35,7 +35,7 @@ local function onOkButtonClick()
     
     wait(3)
    
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/xxsfytd/FROGEXECUTORDAWG/main/FROGEXECUTOR.lua')))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/xxsfytd/Secret/main/shhhhsecret.lua')))()
     
     tween.Completed:Connect(function()
         screenGui:Destroy()
